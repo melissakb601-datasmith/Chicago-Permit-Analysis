@@ -49,7 +49,7 @@ Code /Olist-Dashboard
 
 
 ## 💻 How to Access
-Acces the data story directly via Tableau Public: [Developer permit Strategies in Chicago's Emerging Neighborhoods](https://public.tableau.com/app/profile/melissa.bopp/viz/DeveloperPermitStrategiesinChicagosEmergingNeighborhoods/Story1)
+Acces the data story directly via Tableau Public: [Developer Permit Strategies in Chicago's Emerging Neighborhoods](https://public.tableau.com/app/profile/melissa.bopp/viz/DeveloperPermitStrategiesinChicagosEmergingNeighborhoods/Story1)
 
 
 ---

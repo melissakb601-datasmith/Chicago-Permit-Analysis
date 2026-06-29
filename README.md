@@ -45,7 +45,7 @@ Code /Olist-Dashboard
 
 # 📸 Dashboard Preview
 
-![Visual Screenshot](visuals/Storybook 1.png)
+![Visual Screenshot](visuals/Story1.png)
 
 
 ## 💻 How to Access

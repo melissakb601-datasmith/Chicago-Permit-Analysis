@@ -49,9 +49,8 @@ Code /Olist-Dashboard
 
 
 ## 💻 How to Access
-1. Clone this repository to your local machine.
-3. Open the `.twbx` file in Tableau Desktop or Tableau Public.
-4. Link the data source if prompted.
+Acces the data story directly via Tableau Public: [Developer permit Strategies in Chicago's Emerging Neighborhoods](https://public.tableau.com/app/profile/melissa.bopp/viz/DeveloperPermitStrategiesinChicagosEmergingNeighborhoods/Story1)
+
 
 ---
 

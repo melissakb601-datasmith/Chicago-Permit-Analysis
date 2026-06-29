@@ -37,7 +37,6 @@ This analysis uses public data from the [City of Chicago Data Portal](https://ci
 ```text
 Code /Olist-Dashboard
  │── /visuals           # Screenshots & visuals
- │── /tableau-project   # Tableau project files
  │── README.md
 ```
 

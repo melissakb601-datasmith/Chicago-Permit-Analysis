@@ -49,6 +49,7 @@ Code /Olist-Dashboard
 
 ![Visual Screenshot](visuals/dashboard_home.png)
 
+
 ## 💻 How to Access
 1. Clone this repository to your local machine.
 3. Open the `.twbx` file in Tableau Desktop or Tableau Public.

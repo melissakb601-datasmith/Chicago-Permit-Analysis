@@ -45,8 +45,9 @@ Code /Olist-Dashboard
 
 # 📸 Dashboard Preview
 
-![Visual Screenshot](visuals/storyboard1.png)
-
+![Visual Screenshot](visuals/storyboard 1.png)
+![Visual Screenshot](visuals/storyboard 2.png)
+![Visual Screenshot](visuals/map 1.png)
 
 ## 💻 How to Access
 1. Clone this repository to your local machine.

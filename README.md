@@ -28,7 +28,7 @@ This analysis uses public data from the [City of Chicago Data Portal](https://ci
 ---
   
 ## 📈 Dashboard Insights
-* **Speed Factors**: Projects using certified plans experience significantly shorter review times.
+* **Speed Factors**: Renovation projects using certified plans experience significantly shorter review times.
 * **Hotspots**: Specific West and South Side neighborhoods show a surge in commercial permits.
 
 ---

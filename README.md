@@ -37,6 +37,7 @@ This analysis uses public data from the [City of Chicago Data Portal](https://ci
 ```text
 Code /Olist-Dashboard
  │── /visuals           # Screenshots & visuals
+ │── /twbx-project
  │── README.md
 ```
 
@@ -47,8 +48,10 @@ Code /Olist-Dashboard
 ![Visual Screenshot](visuals/Story1.png)
 
 
-## 💻 How to Access
-Acces the data story directly via Tableau Public: [Developer Permit Strategies in Chicago's Emerging Neighborhoods](https://public.tableau.com/app/profile/melissa.bopp/viz/DeveloperPermitStrategiesinChicagosEmergingNeighborhoods/Story1)
+## # 📥 How to Use
+1. **Clone** or download this repository.
+2. **Open** the `.twbx` file in Tableau.
+3. **Explore** the interactive dashboard elements.
 
 
 ---
